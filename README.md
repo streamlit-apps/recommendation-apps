@@ -1,3 +1,3 @@
 # book_reco
 
-testing my book recommendation
+Testing horizontal layout with Tyler's awesome Goodreads app!

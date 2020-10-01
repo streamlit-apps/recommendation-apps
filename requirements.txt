@@ -1,6 +1,6 @@
 gender_guesser
 matplotlib
-streamlit
+streamlit-nightly
 numpy
 pandas
 xmltodict
